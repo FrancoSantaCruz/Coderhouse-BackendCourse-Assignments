@@ -2,8 +2,8 @@
 
 ### Alumno: Santa Cruz, Franco Agustín. 
 
-- [x] **Desafío Entregable 01**: ProductManager:  Clases con ECMAScript y ECMAScript avanzado.
-- [ ] **Desafío Entregable  02**:
+- [x] **Desafío Entregable 01**: ProductManager:    Clases con ECMAScript y ECMAScript avanzado.
+- [x] **Desafío Entregable  02**: ProductManager:   Manejo de archivos. 
 - [ ] **Desafío Entregable  03**:
 - [ ] **Desafío Entregable  04**:
 - [ ] **Desafío Entregable  05**:
