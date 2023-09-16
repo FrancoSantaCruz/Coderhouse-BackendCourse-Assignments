@@ -4,7 +4,7 @@
 
 - [x] **Desafío Entregable 01**: ProductManager:    Clases con ECMAScript y ECMAScript avanzado.
 - [x] **Desafío Entregable  02**: ProductManager:   Manejo de archivos. 
-- [ ] **Desafío Entregable  03**:
+- [x] **Desafío Entregable  03**: ServidorConExpress
 - [ ] **Desafío Entregable  04**:
 - [ ] **Desafío Entregable  05**:
 - [ ] **Desafío Entregable  06**:
